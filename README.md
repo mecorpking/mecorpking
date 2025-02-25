@@ -1,6 +1,6 @@
 👋 Hi there! I’m Mahendra Vishnoi
 
-🚀 Passionate about scalable applications, automation, and system architecture, I specialize in Next.js, Node.js, Python, Flask, FastAPI, MongoDB, MySQL, and DevOps. Over the past year, I’ve worked on real-time trading automation, AI-powered business tools, web scraping, mobile automation, and cloud-based infrastructure solutions.
+🚀 Passionate about scalable applications, automation, and system architecture, I specialize in Node.js, Python, Flask, FastAPI, MongoDB, MySQL, and DevOps. Over the past year, I’ve worked on real-time trading automation, AI-powered business tools, web scraping, mobile automation, and cloud-based infrastructure solutions.
 
 🛠️ Projects & Contributions
 
@@ -8,11 +8,7 @@
 	•	Built a production-ready trading script manager using Next.js, Flask/FastAPI, and MongoDB.
 	•	Integrated Flask-SocketIO for real-time log streaming and WebSocket-based subscriptions.
 	•	Used Kafka and Parquet-based storage for efficient historical data queries.
-	•	Tech Stack: Next.js, Flask, FastAPI, MongoDB, Apache Spark, Kafka, Redis.
-
-📂 Project Management System
-	•	Developed an employee task management platform with real-time notifications, task assignments, and threaded discussions.
-	•	Tech Stack: Next.js, FastAPI, Redis.
+	•	Tech Stack: Flask, FastAPI, MongoDB, Redis.
 
 🛢 Fuel Price Scraping Bot (Botasaurs)
 	•	Developed an automated web scraping bot to fetch fuel prices across multiple regions using Python & BeautifulSoup.
@@ -34,14 +30,9 @@
 	•	Automated tasks like form filling, data extraction, and UI testing.
 	•	Tech Stack: Node.js, Puppeteer, Selenium, Python.
 
-📊 Reporting Panels
-	•	Created custom reporting dashboards for business analytics, sales tracking, and trading reports.
-	•	Built using PHP, Next.js, and MySQL for dynamic and scalable data visualization.
-	•	Tech Stack: PHP, Next.js, MySQL, Chart.js.
 
 ⚡ Tech Stack & Skills
 
-🔹 Frontend: Next.js, React, Tailwind CSS
 🔹 Backend: Node.js, Flask, FastAPI, Python
 🔹 Databases: MySQL, MongoDB, Redis
 🔹 Automation & AI: Appium, UIAutomator, Selenium, Puppeteer, AI Models
